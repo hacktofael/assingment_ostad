@@ -1,0 +1,54 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgb(12, 186, 119);
+    height: 100vh;
+
+}
+header{
+    background-color: aliceblue;
+    margin: auto;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.logo{
+
+}
+.logo h3{
+
+}
+nav ul{
+
+}
+nav ul li{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li a{
+
+}
+#about{
+    height: 60vh;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    height: 400px;
+}
+footer
+{
+    height: 20vh;
+    background-color: brown;
+    bottom: 0;
+    justify-content: center;
+}
